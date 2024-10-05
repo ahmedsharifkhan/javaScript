@@ -1,0 +1,9 @@
+posts:
+  - title: "My First Blog Post"
+    filename: "post1.md"
+    date: "2024-10-05"
+    author: "John Doe"
+  - title: "Another Awesome Post"
+    filename: "post2.md"
+    date: "2024-10-06"
+    author: "Jane Doe"
